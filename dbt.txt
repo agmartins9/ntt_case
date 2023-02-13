@@ -1,0 +1,2 @@
+dbt (Data Build Tool) is an open-source data transformation tool.
+It works by breaking data transformations down into a series of steps, each of which can be run independently.
